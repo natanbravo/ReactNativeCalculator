@@ -15,5 +15,3 @@ This is Calculator project inspired in Iphone's calculator, where i used JavaScr
 </h4>
 
 ![](https://www.youtube.com/watch?v=CsrHHHPHKwE)
-file:///home/natanbravooo/Downloads/javaScript.gif
-https://www.youtube.com/watch?v=CsrHHHPHKwE
