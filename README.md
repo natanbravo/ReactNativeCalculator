@@ -14,4 +14,3 @@ This is Calculator project inspired in Iphone's calculator, where i used JavaScr
 <h4 align="center" >Hope you all enjoy it. Thanks to everyone !
 </h4>
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cb58ee143459137.627af0c6e5f20.png)
